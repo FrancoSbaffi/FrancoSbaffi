@@ -1,4 +1,3 @@
-
 /* FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,200;6..72,300;6..72,400;6..72,500;6..72,600&display=swap');
@@ -8,10 +7,10 @@
 
 :root {
     --background: #1c1c1c;
-    --background-animated: #292727;
+    --background-animated: #2e2b2b;
     --white: #e5e2e2;
     --dark: #293241;
-    --font-primary: 'Plus Jakarta Sans', sans-serif; 
+    --font-primary: 'Plus Jakarta Sans', sans-serif;
     --font-secondary: 'Newsreader', serif;
     --border-cursor: #f7f7f770;
     --inner-cursor: #f7f7f720;
@@ -26,54 +25,59 @@
     -moz-animation: fadeIn ease 5s;
     -o-animation: fadeIn ease 5s;
     -ms-animation: fadeIn ease 5s;
-  }
-  
-  
-  @keyframes fadeIn{
+}
+
+
+@keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
-  
-  @-moz-keyframes fadeIn {
+}
+
+@-moz-keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
-  
-  @-webkit-keyframes fadeIn {
+}
+
+@-webkit-keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
-  
-  @-o-keyframes fadeIn {
+}
+
+@-o-keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
-  
-  @-ms-keyframes fadeIn {
+}
+
+@-ms-keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
-  
+}
+
 
 /*  GLOBALS SETTING  */
 
@@ -93,19 +97,19 @@ body {
 
 body.dark {
     --background: #e6e6e6;
-    --background-animated: #dacdcd;
+    --background-animated: #cbbbbb;
     --white: #181a1f;
-    --font-primary: 'Plus Jakarta Sans', sans-serif; 
+    --font-primary: 'Plus Jakarta Sans', sans-serif;
     --font-secondary: 'Newsreader', serif;
     --border-cursor: #1d1c1c70;
     --inner-cursor: #07070720;
-    --inner-hover: #f7f7f7; 
+    --inner-hover: #f7f7f7;
     --scrollbar: #b8acac;
 }
 
 body.dark img {
     -webkit-filter: var(--white);
-    filter: invert(100%);  
+    filter: invert(100%);
 }
 
 body::-webkit-scrollbar {
@@ -127,22 +131,22 @@ a {
     cursor: none;
 }
 
-.container{
+.container {
     max-width: 550px;
     margin: 0 auto;
     width: 90%;
 }
 
-.min-vh-100{
+.min-vh-100 {
     min-height: 100vh;
 }
 
-.row{
+.row {
     display: flex;
     flex-wrap: wrap;
 }
 
-.sec-padding{
+.sec-padding {
     padding: 100px 0;
 }
 
@@ -178,12 +182,12 @@ a {
 }
 
 .inner {
-    background: var(--inner-cursor);  
+    background: var(--inner-cursor);
     transition: 250ms ease-out;
 }
 
 .cursor.hover {
-    transform: translate(-50%, -50%) scale(3); 
+    transform: translate(-50%, -50%) scale(3);
     transition: transform 250ms ease-in-out;
 }
 
@@ -203,7 +207,7 @@ main {
 }
 
 .btn {
-    display: inline-block;        
+    display: inline-block;
 }
 
 .link {
@@ -216,7 +220,7 @@ main {
 }
 
 .link:hover {
-    text-decoration: underline;  
+    text-decoration: underline;
 }
 
 .title {
@@ -267,7 +271,7 @@ h3 {
 .dot {
     color: var(--white);
     font-family: var(--font-primary);
-    position: relative; 
+    position: relative;
     place-self: center stretch;
     font-size: 15px;
     font-weight: 700;
@@ -383,22 +387,24 @@ h2 {
 
 /* RESPONSIVE */
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) {
     .cursor {
-        display: none;  
-    }
-}
-
-@media(max-width:767px){
-    .bg-animation-effect .col-7,
-    .bg-animation-effect .col-6{
         display: none;
-    } 
-    .bg-animation-effect div{
-        margin-left: calc((100% - 20px) / 6);   
-    }
-    .portfolio-item{
-        width: calc(100% - 30px); 
     }
 }
 
+@media(max-width:767px) {
+
+    .bg-animation-effect .col-7,
+    .bg-animation-effect .col-6 {
+        display: none;
+    }
+
+    .bg-animation-effect div {
+        margin-left: calc((100% - 20px) / 6);
+    }
+
+    .portfolio-item {
+        width: calc(100% - 30px);
+    }
+}

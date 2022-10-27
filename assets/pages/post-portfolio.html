@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franco Sbaffi</title>
+    <link rel="icon" href="../img/Icon.svg">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <!-- Bg Animation Effect Start -->
+    <div class="bg-animation-effect"></div>
+    <!-- Bg Animation Effect End -->
+    <!-- START CURSOR -->
+    <div class="container cursor outer"></div>
+    <div class="container cursor inner"></div>
+    <!-- END CURSOR -->
+    <!-- START NAVBAR -->
+    <nav class="navbar">
+    </nav>
+    <!-- END NAVBAR -->
+
+    <!-- START ARTICLE -->
+
+    <main class="container fade-in">
+        <article class="sec-padding">
+            <div class="arrow-back">
+                <img class="arrow-img" src="../img/arrow-back.svg" alt="arrow">
+                <a class="btn link" href="#">Toggle Theme</a>
+                <a href="../../index.html" class="back-home link">- Home</a>
+            </div>
+            <div>
+                <div class="post-content">
+                    <img class="post" src="../img/post/Post1.png" alt="">
+                    <p class="title-post">How did I build my portfolio?</p>
+                    <p class="sub-title-post">Today I am going to show you the step by step of my portfolio, the prototyping and scaling that I did in Figma and once finished I went to a simple code made in <b>HTML</b>, <b>CSS</b> and a bit of <b>JAVASCRIPT</b>.</p>
+                </div>
+            </div>
+            <div>
+                <h1 class="title">How did I start?</h1>
+                <p class="sub-title">The first thing is to have clear ideas and go on to design it in the place that you like the most. In my case, <b class="back-post">FIGMA</b>, I started with a very simple mockup where I just placed the boxes and got an idea of where all my content was going to go.</p>
+                <img class="post" src="../img/post/Mockup.png" alt="">
+                <p class="sub-title-post">that simple mockup took me more than an hour...</p>
+                <p class="sub-title">As I said before, the most important thing is to know where you are going to position each box, where all your content is going to be. It is a matter of trying until you find the design that you like the most.</p>
+            </div>
+            <div>
+                <h1 class="title">And what do I do after?</h1>
+                <p class="sub-title">Once I achieve my layout, it's all about replacing the boxes with content. (in my case I don't need a responsive design but remember to do it too if your content deserves it)</p>
+                <img class="post" src="../img/post/MockupV2.png" alt="">
+                <p class="sub-title">I was starting to like the design, I wanted something <b class="back-post">"minimalist"</b> and now it was time to start playing with colors.</p>
+                <p class="sub-title">I wanted a dark mode and in turn alternate it with a light mode, I had to choose many colors and for me, being colorblind, it was not an easy task 😊. That's why I opted for white letters and alternate backgrounds between light gray and dark gray.</p>
+                <p class="sub-title">While for the light tone I was in a dilemma since I did not like the white tone. It was between a very light gray but I ended up opting for shades I think "Cream".</p>
+                <p class="sub-title">Once the colors have been chosen, all that remains is to take them to the <b class="back-post">Mockup</b> and give it the final touches, this ended up being my result:</p>
+                <img class="post" src="../img/post/MockupBLACK.png" alt="">
+                <img class="post" src="../img/post/MockupCREAM.png" alt="">
+                <p class="sub-title">As you can see, the idea was almost finished and I say almost because in the code I <b class="back-post">added</b> some changes that give it a more special extra.</p>
+            </div>
+            <div>
+                <h1 class="title">HTML</h1>
+                <p class="sub-title">Okay, the first thing I did obviously was to open <b class="back-post">VSCode</b>, create my <b class="back-post">index.html</b> and an Assets folder that inside it would create another 3 more folders (CSS, JS and another one for my images) with their respective files.</p>
+                <p class="sub-title">Then of course I started with the simple, separating as in figma all the content by different boxes using Sections, Articles and Divs.</p>
+                <p class="sub-title">Once the <b class="back-post">HTML</b> part was finished and I assigned classes, I could go to the <b class="back-post">CSS</b> to start making it pretty.</p>
+            </div>
+            <div>
+                <h1 class="title">CSS & JAVASCRIPT</h1>
+                <p class="sub-title">In CSS I started by importing fonts from google fonts, Assigning variables that were going to be Colors, Fonts and later other colors for the Cursor.</p>
+                <p class="sub-title">More importantly, I wanted all the content to have a max width and to do so I simply added a container with a max width of 550px, which means that by assigning it to the "parent" tag, all the content that follows will be the same as aligned.</p>
+                <p class="sub-title">When I got to this part I already had the content of my WEB the same as the final version of the Mockup, so I thought "Why not make a cursor?" right or wrong I ended up doing it and was quite satisfied with the result.</p>
+                <p class="sub-title">Two lines of HTML, four lines of CSS, and a few lines of JS were enough to do it. But I also felt that everything was very static, so I decided to add a background that is constantly moving but at the same time not annoying. It was even easier than the cursor.</p>
+                <p class="sub-title">At this point I already had the portfolio almost done but... Thinking for a while I said "It would be nice to put a clock in the footer", so I did it. I added a clock which marks my time since if someone is interested in contacting me they can get an idea of how long I can take to respond.</p>
+            </div>
+            <div>
+                <h1 class="title">Final Words</h1>
+                <p class="sub-title">Thank you for coming this far, I hope you liked it or served as inspiration for your next project.</p>
+                <p class="sub-title">As I always say, I'm not a Web Developer, I'm a Data Scientist, so my specialty goes elsewhere, even so I have a little knowledge that helped me to make my own portfolio and I am very satisfied with the final result.</p>
+                <p class="sub-title">Goodbye 👋</p>
+            </div>
+        </article>
+    </main>
+
+
+
+    <!-- START CLOCK -->
+    <div class="container timer fade-in">
+
+        <div class="time">12:05:32</div>
+        <div class="time-per">am</div>
+        <div class="ubication_ar">Buenos Aires, AR</div>
+
+    </div>
+    <!-- END CLOCK -->
+
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

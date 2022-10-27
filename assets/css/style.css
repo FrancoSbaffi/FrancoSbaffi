@@ -25,11 +25,11 @@
 }
 
 .fade-in {
-    animation: fadeIn ease 5s;
-    -webkit-animation: fadeIn ease 5s;
-    -moz-animation: fadeIn ease 5s;
-    -o-animation: fadeIn ease 5s;
-    -ms-animation: fadeIn ease 5s;
+    animation: fadeIn ease 2.5s;
+    -webkit-animation: fadeIn ease 2.5s;
+    -moz-animation: fadeIn ease 2.5s;
+    -o-animation: fadeIn ease 2.5s;
+    -ms-animation: fadeIn ease 2.5s;
 }
 
 
@@ -225,6 +225,23 @@ main {
 
 .link:hover {
     text-decoration: underline;
+}
+
+.back-home {
+    font-style: italic;
+    font-family: var(--font-secondary);
+    color: var(--white);
+    padding-left: 2px;
+}
+
+.back-home:hover {
+    text-decoration: underline;
+}
+
+.back-post {
+    background-color: var(--background-animated);
+    border-radius: 3px;
+    padding: 1px;
 }
 
 .img-content {

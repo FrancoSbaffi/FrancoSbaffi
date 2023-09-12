@@ -4,3 +4,5 @@
 
 ## Franco Sbaffi
 <i>Cloud Engineer</i>. With great desire to be able to offer my knowledge in this world that I am passionate about.
+<br>
+Constant training in Cloud Computing keeping me updated. Linux, Python, AWS, Azure, Alibaba Cloud & More!.

@@ -1,6 +1,6 @@
 # print(Hello_World) 
 
-<img src="https://github.com/FrancoSbaffi/FrancoSbaffi/assets/99909205/56f388e1-e4cc-47e5-93b2-2823c56ae367">
+<img src="https://github.com/FrancoSbaffi/FrancoSbaffi/assets/99909205/1280e970-1b4b-4562-b55c-05f8b150c6b5">
 
 ## Franco Sbaffi
 <i>Cloud Engineer</i>. With great desire to be able to offer my knowledge in this world that I am passionate about.

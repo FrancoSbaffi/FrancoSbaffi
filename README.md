@@ -18,7 +18,7 @@ Training has become a routine for me, not only because of the world of Technolog
 
 ## I ♥
 
-Machine Learning, Music, Soccer, Cats, Forests, Mountains, Rain.
+Machine Learning, Music, Football, Cats, Forests, Mountains, Rain.
 
 ## Connect
 

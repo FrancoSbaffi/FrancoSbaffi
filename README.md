@@ -14,3 +14,12 @@ Developing skills through practice, exploring on this passion and interests. Awa
 Everything I do revolves around Cloud Computing, everything I want to do is related to Cloud. Software, Security, Networks, the web is an infinite medium of opportunities that I want to discover.
 
 Training has become a routine for me, not only because of the world of Technology, but also because I like to learn about new places and cultures in the world.
+
+
+## I ♥
+
+Machine Learning, Music, Soccer, Cats, Forests, Mountains, Rain.
+
+## Connect
+
+Thank you for your time, if you want to contact me you can do it at <a href="https://www.linkedin.com/in/franco-sbaffi/">Linkedin</a>.

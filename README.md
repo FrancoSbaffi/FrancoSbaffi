@@ -2,8 +2,26 @@
 
 ---
 
-# Hi, Welcome to my profile! 
+# 👋 Hi, Welcome to my profile!
 
-I´m a Cybersecurity Professional with a strong IT foundation and hands-on experience. Skilled in network security, system administration (Windows/Linux), scripting (Python/Bash), and cloud security (AWS/Azure). Holds an AS in IT with practical experience as an IT Security—managing updates, incident resolution, and infrastructure projects. Continuously advancing in threat detection (MITRE ATT&CK, SIEM/Splunk), compliance, and traffic analysis (Wireshark). Committed to ongoing growth, pursuing higher-level certifications to enhance expertise in SOC analysis, cloud security, and blue team defense.
+I'm a **Cybersecurity Specialist** with a strong IT background and hands-on experience in real-world environments. I hold a college degree in IT Infrastructure and several industry-recognized certifications, including:
 
-Security Analyst | SOC Analyst | Cloud Security | Threat Detection | Blue Team
+- ✅ CompTIA Network+, Linux+
+- ✅ Microsoft AZ-900
+- ✅ (ISC)² Certified in Cybersecurity
+- ✅ IBM Cybersecurity Analyst
+- ✅ Security Analyst Level 1 (SAL1)
+
+💡 **Top 1% worldwide on TryHackMe**, showcasing advanced practical skills in threat detection, incident response, and blue team operations.
+
+🔐 Proficient in:
+- **Network & Cloud Security** (AWS / Azure)
+- **System Administration** (Windows / Linux)
+- **Scripting** (Python / Bash)
+- **SIEM** (Splunk / ELK), **MITRE ATT&CK**, **Wireshark**
+
+🚀 Always learning and evolving — currently pursuing higher-level certifications and building expertise in **SOC analysis**, **cloud defense**, and **cyber threat intelligence**.
+
+---
+
+**Security Analyst | SOC Analyst | Cloud Security | Threat Detection | Blue Team**

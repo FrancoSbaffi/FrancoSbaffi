@@ -1,4 +1,4 @@
-![430805840-0125bc24-c09b-4309-a264-bb7631faef1a](https://github.com/user-attachments/assets/864311af-6fec-49fc-a284-a8824f7f1395)
+<img width="1415" height="394" alt="banner" src="https://github.com/user-attachments/assets/1a732403-1a38-4d09-b200-23ed0f27d670" />
 
 ---
 

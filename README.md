@@ -4,24 +4,18 @@
 
 # 👋 Hi, Welcome to my profile!
 
-I'm a **Cybersecurity Specialist** with a strong IT background and hands-on experience in real-world environments. I hold a college degree in IT Infrastructure and several industry-recognized certifications, including:
+I'm a **AI Product Manager** with a strong IT background and hands-on experience in real-world environments. I hold a Bachelor's degree in Computer Science and several industry-recognized certifications, including:
 
 - ✅ CompTIA Network+, Linux+
-- ✅ Microsoft AZ-900
-- ✅ (ISC)² Certified in Cybersecurity
+- ✅ Professional Scrum Master
+- ✅ AI Product Manager
 - ✅ IBM Cybersecurity Analyst
-- ✅ Security Analyst Level 1 (SAL1)
+- ✅ AWS & Alibaba Cloud
 
-💡 **Top 1% worldwide on TryHackMe**, showcasing advanced practical skills in threat detection, incident response, and blue team operations.
+💡 **Top 1% worldwide on TryHackMe**, Experience in Development, Design (UX/)UI), Infraestructure & Artificial Intelligence.
 
-🔐 Proficient in:
-- **Network & Cloud Security** (AWS / Azure)
-- **System Administration** (Windows / Linux)
-- **Scripting** (Python / Bash)
-- **SIEM** (Splunk / ELK), **MITRE ATT&CK**, **Wireshark**
-
-🚀 Always learning and evolving — currently pursuing higher-level certifications and building expertise in **SOC analysis**, **cloud defense**, and **cyber threat intelligence**.
+🚀 Always learning and evolving — currently pursuing higher-level certifications and building expertise in **AI Product Manager**, **Business Analyst**, and **Strategic Thinking**.
 
 ---
 
-**Security Analyst | SOC Analyst | Cloud Security | Threat Detection | Blue Team**
+**AI Product Manager | Project Manager | Product Owner**

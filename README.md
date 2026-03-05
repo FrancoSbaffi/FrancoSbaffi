@@ -4,149 +4,33 @@
 
 # Franco Sbaffi
 
-AI Product Manager | Technical Product Manager | AI Systems Builder
+🧠 AI Product Manager | Technical Product Manager  
+⚙️ AI Systems • Intelligent Workflows • Product Execution
 
-I design and build AI-native products, intelligent workflows, and scalable execution systems that transform complex processes into structured and automated solutions.
+I design and build **AI-native products and intelligent systems** that transform complex workflows into structured, automated solutions.
 
-My work sits at the intersection of **product strategy, AI systems, and technical architecture**, with a focus on building practical AI applications that improve real-world workflows.
-
----
-
-## What I Do
-
-• Design AI-native products and intelligent workflows  
-• Build AI Agents and automation systems  
-• Translate complex business processes into scalable software systems  
-• Connect product strategy with technical execution
-
-I focus on creating **production-ready AI systems**, not just prototypes.
+My background combines **product strategy, infrastructure, and cybersecurity**, allowing me to bridge business needs with scalable technical execution.
 
 ---
 
-## Current Focus
+### Focus
 
-• AI Agents for product execution and workflow automation  
+• AI Agents & intelligent automation  
 • AI-native product architecture  
-• Retrieval-Augmented Generation (RAG) systems  
-• AI-powered knowledge systems  
-• Intelligent workflow orchestration
+• Workflow orchestration systems  
+• RAG and knowledge-based AI systems  
 
 ---
 
-## Featured Projects
-
-### MandarinOS
-AI-powered Mandarin learning system designed as a structured alternative to traditional language apps.
-
-Key ideas:
-- Knowledge graph based learning structure
-- AI-powered explanations
-- HSK structured learning system
-- Personalized learning flow
-
----
-
-### Product Execution Agent
-
-An AI system designed to assist product managers and teams by:
-
-- Analyzing project context
-- Prioritizing tasks
-- Detecting risks and delays
-- Generating execution insights
-
-This system transforms **static project data into actionable execution guidance**.
-
----
-
-### AI Workflow Systems
-
-Systems that combine:
-
-- LLM reasoning
-- structured data
-- automation tools
-
-to create **intelligent operational workflows**.
-
-Examples include:
-- AI task analysis
-- workflow optimization
-- knowledge retrieval systems
-
----
-
-## Technical Stack
-
-### AI / Data
-- LLM Systems
-- RAG Architecture
-- Prompt Engineering
-- AI Agents
-- Vector Databases
-
-### Engineering
-- Python
-- Bash
-- Git
-- Docker
-- Linux
-
-### Infrastructure
-- Microsoft Azure
-- Networking
-- Cloud Security
-- SIEM (Splunk / ELK)
-
----
-
-## Certifications
-
-• Security Analyst Level 1 (SAL1) – TryHackMe  
-• CompTIA Linux+  
-• CompTIA Network+  
-• Microsoft Azure Fundamentals (AZ-900)  
-• Certified in Cybersecurity (ISC2)  
-• IBM Cybersecurity Analyst Professional Certificate  
-
----
-
-## Achievements
+### Selected Background
 
 • Top **1% worldwide on TryHackMe**  
 • 200+ cybersecurity labs completed  
-• Experience across **cybersecurity, infrastructure, and AI systems**
+• Certifications: Linux+, Network+, AZ-900, ISC2 CC, SAL1, AIPM, AI Agents  
 
 ---
 
-## Background
+### Currently
 
-My background combines:
-
-Cybersecurity + Infrastructure + Product Thinking
-
-This allows me to design **AI systems that are technically sound, secure, and scalable**.
-
----
-
-## Currently Learning
-
-• Advanced AI Agent architectures  
-• AI product development frameworks  
-• Mandarin Chinese (HSK track)
-
----
-
-## Connect
-
-LinkedIn  
-Portfolio  
-Email
-
----
-
-## Philosophy
-
-AI should not just generate content.
-
-AI should **improve how systems execute work.**
+📍 Building AI systems and exploring advanced AI agent architectures  
+📚 Studying Mandarin Chinese (HSK track)
